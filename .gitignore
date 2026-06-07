@@ -5,3 +5,6 @@ Thumbs.db
 # 편집기
 .vscode/
 *.swp
+
+# 로컬 전용 실행 스크립트 (사이트와 무관, GitHub에 올리지 않음)
+*.bat
