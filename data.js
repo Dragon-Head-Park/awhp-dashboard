@@ -10,9 +10,9 @@
    ============================================================ */
 window.DASHBOARD_DATA = {
   meta: {
-    "lastUpdated": "2026년 5월 17일",
-    "lastUpdatedNote": "(W17~W20 주간 인사이트 반영)",
-    "dataSources": "EHPA, EU F-Gas/EPBD, 주간 인사이트(W17~W20), 각사 PR, 시장 리서치"
+    "lastUpdated": "2026년 7월 16일",
+    "lastUpdatedNote": "(Q1 2026 판매 +17% · 호르무즈 위기 · 신제품 반영)",
+    "dataSources": "EHPA(2025 확정·Q1 2026), EU F-Gas/EPBD, 호르무즈 위기 에너지 영향, 각사 PR, 시장 리서치"
   },
 
   charts: {
@@ -34,7 +34,7 @@ window.DASHBOARD_DATA = {
             300,
             310,
             238,
-            263
+            262
           ],
           "backgroundColor": [
             "rgba(56,189,248,.5)",
