@@ -315,12 +315,12 @@ window.DASHBOARD_DATA = {
         {
           "label": "Vaillant",
           "data": [
-            8,
+            9,
             3,
             9,
             8,
             6,
-            7
+            8
           ],
           "borderColor": "#34d399",
           "backgroundColor": "rgba(52,211,153,.06)",
@@ -604,8 +604,8 @@ window.DASHBOARD_DATA = {
             9,
             5,
             9,
-            6,
-            8,
+            7,
+            9,
             7,
             6,
             5,
@@ -624,7 +624,7 @@ window.DASHBOARD_DATA = {
             5,
             9,
             7,
-            7,
+            8,
             4,
             8,
             6
@@ -642,7 +642,7 @@ window.DASHBOARD_DATA = {
             4,
             5,
             8,
-            6,
+            7,
             5,
             7,
             5
